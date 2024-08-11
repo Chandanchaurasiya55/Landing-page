@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #021227;
+}
+h1{
+    color: rgba(204, 242, 15, 0.742);
+    margin-left: 28px;
+    margin-top: 16px;
+    margin-right: 90px;
+    height: 100%;
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    top: 0px;
+    width: 100%;
+    padding-bottom: 10px;
+    background-color: #0d3568;
+    text-transform: transparent;
+    position: fixed;
+}
+a{
+    text-decoration: none;
+    margin-left: 58px;
+    margin-top: 12px;
+    padding: 8px;
+    height: 40px;
+    color: antiquewhite;
+    font-size: 25px;
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#contain{
+    color: azure;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#one{
+    color: coral;
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+#two{
+    margin-left: 60px;
+    margin-top: 45px;
+    font-size: 35px;
+    margin-bottom: 0px;
+    padding: 30px;
+    padding-bottom: 0px;
+    color: rgb(255, 48, 196);
+}
+img{
+    float: right;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding: 15px;
+    padding-bottom: 0px;
+    padding-left: 13px;  
+    border: 1px solid rgb(140, 213, 181);
+    border-radius: 20px;
+    shadow: 2px 2px solid red;
+}
+#paraone{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 25px;
+    margin-top: 10px;
+    padding-right: 15px;
+}
+section{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 290px;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgoldenrod;
+}
+.Education{
+    display: inline-block;
+    background-color: transparent;
+}
+.Education{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma;
+    height: 400px;
+    width: 250px;
+    color: aquamarine;
+    margin: 30px;
+    margin-left: 75px;
+    margin-top: 50px;
+    text-align: center;
+    border: 2px solid burlywood;
+    overflow: hidden;
+    border-radius: 20px;
+    text-shadow: 2px 1px sandybrown;
+}
+h4{
+    margin-top: 8px;
+}
+.paraone{
+    font-size: 18px;
+    color: rgb(242, 225, 205);
+    margin-top: 13px;
+    padding: 2px;
+    text-shadow: none;
+    text-overflow: none;
+}
+.paratwo{
+    font-size: 18px;
+    color: rgb(242, 225, 205);
+    margin: 5px;
+    margin-top: 45px;
+    padding: 2px;
+    text-shadow: none;
+    text-overflow: none;
+}
+#skills{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffee00d7;
+    font-size: 30px;
+}
+.navbar a:hover{
+    color: red;
+    background: #000;
+}
